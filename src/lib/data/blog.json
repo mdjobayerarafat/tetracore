@@ -1,0 +1,67 @@
+{
+          "featuredPost": {
+            "image": "/assets/image1.png",
+            "title": "AI-Powered Job Recruitment & Skill Matching: Transforming the Hiring Landscape",
+            "date": "March 5, 2025",
+            "author": "Sarah Chen",
+            "readTime": "8 min read",
+            "category": "Featured",
+            "link": "https://github.com/mdjobayerarafat/digthedata?tab=readme-ov-file"
+          },
+          "posts": [
+            {
+              "image": "/assets/image1.png",
+              "title": "How AI is Transforming Modern Education",
+              "date": "March 8, 2025",
+              "author": "John Doe",
+              "category": "Technology",
+              "excerpt": "Explore how artificial intelligence technologies are revolutionizing classroom learning and making education more accessible and personalized than ever before.",
+              "link": "https://github.com/mdjobayerarafat/digthedata?tab=readme-ov-file"
+            },
+            {
+              "image": "/assets/image1.png",
+              "title": "The Rise of Smart Manufacturing",
+              "date": "March 2, 2025",
+              "author": "Jane Smith",
+              "category": "Innovation",
+              "excerpt": "Manufacturing is undergoing a digital transformation with IoT sensors, real-time analytics, and predictive maintenance reshaping factory floors worldwide.",
+              "link": "#"
+            },
+            {
+              "image": "/assets/image1.png",
+              "title": "Ethical Considerations in AI Development",
+              "date": "February 25, 2025",
+              "author": "Alice Johnson",
+              "category": "AI & ML",
+              "excerpt": "As AI becomes more integrated into our daily lives, we must address the ethical implications and build frameworks for responsible innovation.",
+              "link": "#"
+            },
+            {
+              "image": "/assets/image1.png",
+              "title": "Tetra Core Partners with Global Education Initiative",
+              "date": "February 20, 2025",
+              "author": "Tetra Core",
+              "category": "Company News",
+              "excerpt": "We're proud to announce our partnership with the Global Education Initiative to bring tech education to underserved communities worldwide.",
+              "link": "#"
+            },
+            {
+              "image": "/assets/image1.png",
+              "title": "The Connected Home: Beyond Convenience",
+              "date": "February 15, 2025",
+              "author": "Bob Brown",
+              "category": "IoT",
+              "excerpt": "Smart home technology is evolving beyond simple convenience features to address energy efficiency, security, and accessibility concerns.",
+              "link": "#"
+            },
+            {
+              "image": "/assets/image1.png",
+              "title": "Blockchain Applications Beyond Cryptocurrency",
+              "date": "February 10, 2025",
+              "author": "Charlie Davis",
+              "category": "Technology",
+              "excerpt": "Discover how blockchain technology is being leveraged in supply chain, healthcare, voting systems, and more to increase transparency and security.",
+              "link": "#"
+            }
+          ]
+      }
